@@ -10,4 +10,4 @@ El notebook (`Laboratorio_de_ADD.ipynb`) incluye el proceso completo de ETL, EDA
 
 Puedes ejecutar este análisis directamente en Google Colab haciendo clic en el siguiente botón:
 
-[![Abrir en Colab](https://colab.research.google.com/github/MilenaGauto/An-lisis-de-datos-/blob/main/Laboratorio_de_ADD.ipynb)](https://github.com/MilenaGauto/An-lisis-de-datos-/blob/main/Laboratorio_de_ADD.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MilenaGauto/An-lisis-de-datos-/blob/main/Laboratorio_de_ADD.ipynb)
